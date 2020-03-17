@@ -1,0 +1,16 @@
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\bin\Debug\netstandard2.0\Espresso.deps.json
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\bin\Debug\netstandard2.0\Espresso.dll
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\bin\Debug\netstandard2.0\ref\Espresso.dll
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\bin\Debug\netstandard2.0\Espresso.pdb
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\obj\Debug\netstandard2.0\Espresso.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\obj\Debug\netstandard2.0\Espresso.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\obj\Debug\netstandard2.0\Espresso.AssemblyInfo.cs
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\obj\Debug\netstandard2.0\Espresso.dll
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\obj\Debug\netstandard2.0\ref\Espresso.dll
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\obj\Debug\netstandard2.0\Espresso.pdb
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\obj\Debug\netstandard2.0\Pages\HomePage.xaml.g.cs
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\obj\Debug\netstandard2.0\Pages\InfoPage.xaml.g.cs
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\obj\Debug\netstandard2.0\Pages\MenuPage.xaml.g.cs
+C:\Users\Mike\source\repos\Xamarin\Espresso\Espresso\Espresso\obj\Debug\netstandard2.0\Pages\ReservationPage.xaml.g.cs

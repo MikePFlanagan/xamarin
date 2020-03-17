@@ -1,0 +1,1 @@
+C:\Users\Mike\source\repos\MusicAcademyCRM\MusicAcademyCRM\MusicAcademyCRM.UWP\MusicAcademyCRM.UWP.csproj;x86
