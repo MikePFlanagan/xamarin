@@ -38,16 +38,7 @@ namespace MusicAcademyCRM.Model
         public string Leadsource { get; set; }
 
         [MaxLength(250)]
-        public string Notes { get; set; }
-
-
-
-
-
-
-       
-        
-        
+        public string Notes { get; set; }       
        
     }
 }

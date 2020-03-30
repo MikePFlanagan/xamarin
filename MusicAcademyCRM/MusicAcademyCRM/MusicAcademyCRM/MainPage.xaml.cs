@@ -34,5 +34,11 @@ namespace MusicAcademyCRM
            }
         }
 
+       
+
+        void registerUserButton_Clicked(System.Object sender, System.EventArgs e)
+        {
+            Navigation.PushAsync(new RegisterPage());
+        }
     }
 }

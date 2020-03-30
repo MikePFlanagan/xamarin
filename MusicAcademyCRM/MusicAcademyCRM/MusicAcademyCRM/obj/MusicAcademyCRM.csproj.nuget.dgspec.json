@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM.csproj": {}
+    "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM.csproj": {
+    "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM.csproj",
+        "projectUniqueName": "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.csproj",
         "projectName": "MusicAcademyCRM",
-        "projectPath": "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM.csproj",
-        "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM\\obj\\",
+        "projectPath": "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.csproj",
+        "packagesPath": "/Users/Mike/.nuget/packages/",
+        "outputPath": "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/Mike/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,6 +36,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.Azure.Mobile.Client": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -71,7 +69,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM.iOS\\MusicAcademyCRM.iOS.csproj": {}
+    "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/MusicAcademyCRM.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM.iOS\\MusicAcademyCRM.iOS.csproj": {
+    "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/MusicAcademyCRM.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM.iOS\\MusicAcademyCRM.iOS.csproj",
+        "projectUniqueName": "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/MusicAcademyCRM.iOS.csproj",
         "projectName": "MusicAcademyCRM.iOS",
-        "projectPath": "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM.iOS\\MusicAcademyCRM.iOS.csproj",
-        "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM.iOS\\obj\\",
+        "projectPath": "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/MusicAcademyCRM.iOS.csproj",
+        "packagesPath": "/Users/Mike/.nuget/packages/",
+        "outputPath": "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/Mike/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM.csproj": {
-                "projectPath": "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM.csproj"
+              "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.csproj": {
+                "projectPath": "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.csproj"
               }
             }
           }
@@ -42,6 +36,10 @@
       "frameworks": {
         "xamarinios10": {
           "dependencies": {
+            "Microsoft.Azure.Mobile.Client": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.3.1, )"
@@ -69,28 +67,22 @@
         }
       }
     },
-    "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM.csproj": {
+    "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM.csproj",
+        "projectUniqueName": "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.csproj",
         "projectName": "MusicAcademyCRM",
-        "projectPath": "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM.csproj",
-        "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mike\\source\\repos\\MusicAcademyCRM\\MusicAcademyCRM\\MusicAcademyCRM\\obj\\",
+        "projectPath": "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.csproj",
+        "packagesPath": "/Users/Mike/.nuget/packages/",
+        "outputPath": "/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/Mike/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -107,6 +99,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.Azure.Mobile.Client": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -136,7 +132,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
         }
       }
     }
