@@ -156,15 +156,15 @@ C:/Users/Mike/source/repos/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/o
 /Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/bin/iPhoneSimulator/Debug/MusicAcademyCRM.dll
 /Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/bin/iPhoneSimulator/Debug/MusicAcademyCRM.pdb
-/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/ibtool/_BundleResourceWithLogicalName.items
-/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_PartialAppManifest.items
-/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_BundleResourceWithLogicalName.items
-/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_PartialAppManifest.items
-/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_BundleResourceWithLogicalName.items
-/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/optimized/
 /Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/MusicAcademyCRM.iOS.csprojAssemblyReference.cache
 /Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/MusicAcademyCRM.iOS.csproj.CoreCompileInputs.cache
 /Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/MusicAcademyCRM.iOS.csproj.CopyComplete
 /Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/MusicAcademyCRM.iOS.exe
 /Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/MusicAcademyCRM.iOS.pdb
+/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.4/actool/_PartialAppManifest.items
+/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.4/actool/_BundleResourceWithLogicalName.items
+/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.4/coremlc/_PartialAppManifest.items
+/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.4/optimized/

@@ -37,3 +37,4 @@ C:/Users/Mike/source/repos/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/obj/D
 /Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/obj/Debug/netstandard2.0/MusicAcademyCRM.dll
 /Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/obj/Debug/netstandard2.0/ref/MusicAcademyCRM.dll
 /Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/obj/Debug/netstandard2.0/MusicAcademyCRM.pdb
+/Users/Mike/Documents/GitHub/xamarin/MusicAcademyCRM/MusicAcademyCRM/MusicAcademyCRM/obj/Debug/netstandard2.0/MusicAcademyCRM.csprojAssemblyReference.cache
